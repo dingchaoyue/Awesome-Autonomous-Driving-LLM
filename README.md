@@ -1,3 +1,5 @@
+
+https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/16e2d1d0-74f3-41fd-9075-4e4eb42b3b8b
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -24,8 +26,6 @@ A curated list of awesome large AI models in autonomous driving signal processin
 We demonstrate the performance of our system in a variety of complex scenarios. The pink vehicle represents the self-vehicle, the gray circle represents the sensing range, the green vehicle is the vehicle that has been sensed, the blue vehicle is the vehicle that has not been sensed, and the red vehicle is the vehicle that LLM is paying attention to.
 
 https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/2be74a5d-ffb5-4377-b412-f22246c34118
-
-https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/blob/master/left_fast3.mp4
 
 
 ## Reasoning ability
