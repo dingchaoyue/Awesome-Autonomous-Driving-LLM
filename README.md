@@ -38,11 +38,24 @@ We demonstrate the performance of our system in a variety of complex scenarios. 
 
 
 ## Reasoning ability
-This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
 
-<left class ='img'>
-<img title="XX" src="media.png" width="45%">
-</left>
+<div align="center">
+<table rules="none">
+<tr>
+<td>
+<p>This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
+</p>
+</td>
+<td>
+<right class ='img'>
+<img title="XX" src="media.png" width="80%">
+</right>
+</td>
+</tr>
+</table>    
+</div>
+
+
 
 ## Multi-vehicle Joint Control
 This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
