@@ -24,6 +24,7 @@ A curated list of awesome large AI models in autonomous driving signal processin
 We demonstrate the performance of our system in a variety of complex scenarios. The pink vehicle represents the self-vehicle, the gray circle represents the sensing range, the green vehicle is the vehicle that has been sensed, the blue vehicle is the vehicle that has not been sensed, and the red vehicle is the vehicle that LLM is paying attention to.
 
 https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/2be74a5d-ffb5-4377-b412-f22246c34118
+
 https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/left_fast3.mp4
 
 
