@@ -62,7 +62,7 @@ Our approach enables users or utilizes high-precision maps to provide textual in
 Our approach simplifies the process of driving style adjustment by merely providing textual descriptions to the LLM through a dedicated interface. When there is low risk of overtaking, LLM instructed to drive aggressively will make reasonable overtaking decisions, while those directed to drive conservatively will opt to slow down and follow the vehicle in front of it.
 
 <left class ='img'>
-<img title="XX" src="media(3).png" width="45%">
+<img title="XX" src="media(3).png" width="100%">
 </left>
 
 
