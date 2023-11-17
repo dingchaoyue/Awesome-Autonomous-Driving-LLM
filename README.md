@@ -25,8 +25,7 @@ We demonstrate the performance of our system in a variety of complex scenarios. 
 
 https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/2be74a5d-ffb5-4377-b412-f22246c34118
 
-https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/left_fast3.mp4
-
+https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/master/left_fast3.mp4
 
 
 ## Reasoning ability
