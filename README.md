@@ -38,37 +38,24 @@ We demonstrate the performance of our system in a variety of complex scenarios. 
 
 
 ## Reasoning ability
+This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
 
-<div align="center">
-<table rules="none">
-<tr>
-<td>
-<p>This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
-</p>
-</td>
-<td>
-<right class ='img'>
-<img title="XX" src="media.png" width="80%">
-</right>
-</td>
-</tr>
-</table>    
-</div>
-
-
+<left class ='img'>
+<img title="XX" src="media.png" width="75%">
+</left>
 
 ## Multi-vehicle Joint Control
 This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
 
 <left class ='img'>
-<img title="XX" src="media(1).png" width="45%">
+<img title="XX" src="media(1).png" width="75%">
 </left>
 
 ## Textual guidance
 Our approach enables users or utilizes high-precision maps to provide textual instructions that guide the AD system's decision-making process. We conducted an experiment involving a road construction scenario. Upon receiving textual guidelines, our approach successfully recognized the situation and gave appropriate driving behavior.
 
 <left class ='img'>
-<img title="XX" src="media(2).png" width="45%">
+<img title="XX" src="media(2).png" width="75%">
 </left>
 
 ## Driving style adjustment
