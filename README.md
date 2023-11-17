@@ -27,10 +27,6 @@ We demonstrate the performance of our system in a variety of complex scenarios. 
 
 https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/2be74a5d-ffb5-4377-b412-f22246c34118
 
-https://raw.githubusercontent.com/HaoShaTHU/LLM-MPC/main/left3.mp4
-
-https://raw.githubusercontent.com/HaoShaTHU/LLM-MPC/main/left_fast3.mp4
-
 ## Reasoning ability
 This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
 
