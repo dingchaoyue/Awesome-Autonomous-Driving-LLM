@@ -7,13 +7,13 @@ https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/16
 # <p align=center> This repo supplements our survey: [Sparks of Large Autonomous Driving Models: A Survey and Outlook](https://arxiv.org/abs/2308.12345).
 </p>
 
-> **<p align="justify"> Abstract:** *This survey paper provides a comprehensive overview of the recent advancements and challenges in applying large language models to the field of autonomous driving signal processing. Autonomous-Driving processing, with its diverse signal representations and a wide range of sources--from human voices to musical instruments and environmental sounds--poses challenges distinct from those found in traditional Natural Language Processing scenarios. Nevertheless, Large Autonomous-Driving Models, epitomized by transformer-based architectures, have shown marked efficacy in this sphere. By leveraging massive amounts of data, these models have demonstrated prowess in a variety of autonomous driving tasks, spanning from Automatic Autonomous Driving Recognition and Text-To-Autonomous Driving to Music Generation, among others. Notably, recently these Foundational Autonomous-Driving Models, like SeamlessM4T, have started showing abilities to act as universal translators, supporting multiple autonomous driving tasks for up to 100 languages without any reliance on separate task-specific systems. This paper presents an in-depth analysis of state-of-the-art methodologies regarding Foundational Large Autonomous-Driving Models, their performance benchmarks, and their applicability to real-world scenarios. We also highlight current limitations and provide insights into potential future research directions in the realm of Large Autonomous-Driving Models with the intent to spark further discussion, thereby fostering innovation in the next generation of autonomous driving-processing systems.* </p>
+> **<p align="justify"> Abstract:** *This survey paper provides a comprehensive overview of the recent advancements and challenges in applying large language models to the field of autonomous driving signal processing. Autonomous Driving processing, with its diverse signal representations and a wide range of sources--from human voices to musical instruments and environmental sounds--poses challenges distinct from those found in traditional Natural Language Processing scenarios. Nevertheless, Large Autonomous Driving Models, epitomized by transformer-based architectures, have shown marked efficacy in this sphere. By leveraging massive amounts of data, these models have demonstrated prowess in a variety of autonomous driving tasks, spanning from Automatic Autonomous Driving Recognition and Text-To-Autonomous Driving to Music Generation, among others. Notably, recently these Foundational Autonomous Driving Models, like SeamlessM4T, have started showing abilities to act as universal translators, supporting multiple autonomous driving tasks for up to 100 languages without any reliance on separate task-specific systems. This paper presents an in-depth analysis of state-of-the-art methodologies regarding Foundational Large Autonomous Driving Models, their performance benchmarks, and their applicability to real-world scenarios. We also highlight current limitations and provide insights into potential future research directions in the realm of Large Autonomous Driving Models with the intent to spark further discussion, thereby fostering innovation in the next generation of autonomous driving-processing systems.* </p>
 
 ![](GTP3.5.png)
 
 <hr />
 
-# <p align=center>` Awesome Large Language Models in Autonomous-Driving AI`</p>
+# <p align=center>` Awesome Large Language Models in Autonomous Driving AI`</p>
 
 ![](LLMS_TimeLine.jpg)
 
@@ -122,7 +122,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ```
 @article{latif2023sparks,
-  title={Sparks of Large Autonomous-Driving Models: A Survey and Outlook},
+  title={Sparks of Large Autonomous Driving Models: A Survey and Outlook},
   journal={arXiv preprint arXiv:2308.12792},
   year={2023}
 }
