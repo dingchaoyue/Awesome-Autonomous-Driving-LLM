@@ -31,21 +31,21 @@ https://github.com/dingchaoyue/Awesome-Autonomous-Driving-LLM/assets/38074924/2b
 This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
 
 <left class ='img'>
-<img title="XX" src="media.png" width="75%">
+<img title="XX" src="media.png" width="100%">
 </left>
 
 ## Multi-vehicle Joint Control
 This example showcases LLM's ability to understand and reason with high-level information, affirming the effectiveness of our chain-of-thought approach. The combination of attention allocation, situational awareness, and action guidance ensures that our system consistently exhibits the correct driving behavior.
 
 <left class ='img'>
-<img title="XX" src="media(1).png" width="75%">
+<img title="XX" src="media(1).png" width="199%">
 </left>
 
 ## Textual guidance
 Our approach enables users or utilizes high-precision maps to provide textual instructions that guide the AD system's decision-making process. We conducted an experiment involving a road construction scenario. Upon receiving textual guidelines, our approach successfully recognized the situation and gave appropriate driving behavior.
 
 <left class ='img'>
-<img title="XX" src="media(2).png" width="75%">
+<img title="XX" src="media(2).png" width="199%">
 </left>
 
 ## Driving style adjustment
@@ -66,17 +66,17 @@ Our approach simplifies the process of driving style adjustment by merely provid
 - [Autonomous-Driving Datasets](#autonomous-driving-datasets)
 
 # Survey Papers
-
-**A review of deep learning techniques for autonomous driving processing** [2023].<br>*Ambuj Mehrish, Navonil Majumder, Rishabh Bharadwaj, Rada Mihalcea, Soujanya Poria*<br>[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1566253523001859)]<br>
-**Foundational Models Defining a New Era in Vision: A Survey and Outlook** [2023].<br>*Awais, Muhammad and Naseer, Muzammal and Khan, Salman and Anwer, Rao Muhammad and Cholakkal, Hisham and Shah, Mubarak and Yang, Ming-Hsuan and Khan, Fahad Shahbaz*<br>[[PDF](https://arxiv.org/abs/2307.13721)]<br>
-**A comparative study on transformer vs rnn in autonomous driving applications** [2019].<br>*Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, Ziyan Jiang, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang*<br>[[PDF](https://ieeexplore.ieee.org/abstract/document/9003750)]<br>
+**On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving** [2023].<br>*Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang, Pinlong Cai, Xin Li, Tao Ma, Yingxuan Li, Linran Xu, Dengke Shang, Zheng Zhu, Shaoyan Sun, Yeqi Bai, Xinyu Cai, Min Dou, Shuanglu Hu, Botian Shi*<br>[[PDF](https://arxiv.org/pdf/2311.05332.pdf)]<br>
+**A Survey of Large Language Models for Autonomous Driving** [2023].<br>*Zhenjie Yang, Xiaosong Jia, Hongyang Li, Junchi Yan*<br>[[PDF](https://arxiv.org/pdf/2311.01043.pdf)]<br>
 
 
-## Popular Large Autonomous-Driving Models
-**Autonomous Drivinggpt: Empowering large language models with intrinsic cross-modal conversational abilities.** [2023].<br> *Zhang, Dong, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, and Xipeng Qiu.*<br>[[PDF](https://arxiv.org/pdf/2305.11000.pdf)]<br>
-**SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
-<br>
+## Popular Large Autonomous Driving Models
+**Drive like a human: Rethinking autonomous driving with large language models** [2023].<br>*Daocheng Fu, Xin Li, Licheng Wen, Min Dou, Pinlong Cai, Botian Shi, Yu Qiao*<br>[[PDF](https://arxiv.org/pdf/2307.07162.pdf)]<br>
 
+
+
+
+<!-- 
 ## Automatic Autonomous Driving Recognition (ASR)
 
 **On decoder-only architecture for autonomous driving-to-text and large language model integration** [2023].<br>*Jian Wu, Yashesh Gaur, Zhuo Chen, Long Zhou, Yimeng Zhu, Tianrui Wang, Jinyu Li, Shujie Liu, Bo Ren, Linquan Liu, Yu Wu*<br>[[PDF](https://arxiv.org/abs/2307.03917)]<br>
@@ -104,7 +104,7 @@ Our approach simplifies the process of driving style adjustment by merely provid
 
 **MusicGen: Simple and Controllable Music Generation** [2023].<br>*Jade Copet, Felix Kreuk, Itai Gat, Tal Remez, David Kant, Gabriel Synnaeve, Yossi Adi, Alexandre Défossez*<br>[[PDF](https://arxiv.org/abs/2306.05284)]<br>
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
-<br>
+<br> -->
 
 
 ## Autonomous-Driving Datasets
